@@ -7,9 +7,8 @@
 
 **Duration-** 1 Month
 
-**Project Details
+**PROJECT DETAILS**
 
-  **Aim-** Build a number guessing game where the computer generates a random number, and the user has to guess it.
-  
-  **Technologies-** Python
-
+        Aim - Build a number guessing game where the computer generates a random number, and the user has to guess it.
+        
+        Technologies - Python
